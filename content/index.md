@@ -1,5 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: |-
+  # Arnold's Knowledge Base
+
+
+  Welcome to my knowledge base. This site will be used to organize notes, resources, and ideas from my course as I continue building my understanding of digital tools and web publishing.
 ---
 ## The index page
 
