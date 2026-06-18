@@ -9,6 +9,15 @@ title: |-
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
+## Main Categories
+
+- [[web-design/index|Web Design]]
+- [[digital-organization/index|Digital Organization]]
+- [[github-and-publishing/index|GitHub and Publishing]]
+- [[obsidian-notes/index|Obsidian Notes]]
+- [[course-projects/index|Course Projects]]
+- [[resources/index|Resources]]
+
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
