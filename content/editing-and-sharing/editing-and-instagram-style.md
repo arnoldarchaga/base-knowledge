@@ -1,3 +1,8 @@
+---
+title: "Editing and Instagram Style"
+date: 2026-07-21
+---
+
 # Editing and Instagram Style
 
 Editing is what helps all the pictures look like they belong together on the same Instagram page. The goal is not to completely change the photo, but to make it look cleaner and more consistent. A good Instagram style usually has similar colors, lighting, and mood across different posts. For truck photography, I could go for a darker, cleaner, and more natural look instead of making every photo too bright or over-edited.
@@ -15,3 +20,7 @@ A simple edit could include lowering highlights, adding a little contrast, sharp
 5. Keep the truck looking natural.
 
 Editing connects back to [[Lighting and Time of Day]] because better lighting makes the editing process easier. It also connects to [[iPhone Camera Basics for Truck Photography]] because a blurry or badly framed photo is harder to fix later, even with editing.
+
+## Source
+
+Information about editing photographs on an iPhone was supported by Apple Support. See the complete source on the [[references|References]] page.

@@ -1,3 +1,8 @@
+---
+title: "Solo Photo Setup"
+date: 2026-07-21
+---
+
 # Solo Photo Setup
 
 One challenge with taking truck pictures is not always having someone there to take the photo. Since I do not always have a photographer, I need a setup that lets me take pictures by myself. A tripod is probably one of the most useful tools because it lets me place my phone at the right height and angle. Even a simple phone tripod can make the photos look more planned.

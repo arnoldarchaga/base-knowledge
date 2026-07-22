@@ -1,3 +1,8 @@
+---
+title: "Finding Good Locations"
+date: 2026-07-21
+---
+
 # Finding Good Locations
 
 The location of a truck photo matters almost as much as the truck itself. A clean background can make a regular photo look much more professional. For an F-150, good locations could include parking garages, open roads, empty lots, gas stations at night, downtown areas, or even a simple field. The goal is to find places that match the look I want for my Instagram.

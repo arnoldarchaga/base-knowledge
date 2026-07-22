@@ -5,51 +5,49 @@ title: |-
 
   Welcome to my knowledge base. This site will be used to organize notes, resources, and ideas from my course as I continue building my understanding of digital tools and web publishing.
 ---
-## The index page
-
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
-
-## Main Categories
-
-- [[web-design/index|Web Design]]
-- [[digital-organization/index|Digital Organization]]
-- [[github-and-publishing/index|GitHub and Publishing]]
-- [[obsidian-notes/index|Obsidian Notes]]
-- [[course-projects/index|Course Projects]]
-- [[resources/index|Resources]]
-
-## Editing pages
-
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
 ---
-## Adding new pages
+title: "Truck Photography Knowledge Base"
+date: 2026-07-21
+---
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+# Truck Photography Knowledge Base
+
+Welcome to my truck photography knowledge base. This website explains how I plan, photograph, edit, and share pictures of my F-150. It is designed for beginners who want to take better vehicle photographs without needing expensive professional equipment.
+
+## Explore the Knowledge Base
+
+### Camera Basics
+
+Learn how to use an iPhone camera, control focus and exposure, choose useful settings, and find affordable equipment.
+
+- [[camera-basics/index|Explore Camera Basics]]
+
+### Composition
+
+Learn how camera angles, backgrounds, framing, and detail shots can improve truck photography.
+
+- [[composition/index|Explore Composition]]
+
+### Lighting
+
+Learn how golden hour, direct sunlight, and nighttime conditions affect truck photographs.
+
+- [[lighting/index|Explore Lighting]]
+
+### Planning a Photo Shoot
+
+Learn how to find locations, prepare the truck, use a checklist, and take photographs while working alone.
+
+- [[planning/index|Explore Planning]]
+
+### Editing and Sharing
+
+Learn how to edit photographs, create a consistent Instagram feed, and prepare pictures for posting.
+
+- [[editing-and-sharing/index|Explore Editing and Sharing]]
+
+## Additional Information
+
+- [[about|About This Knowledge Base]]
+- [[references|References]]
 
